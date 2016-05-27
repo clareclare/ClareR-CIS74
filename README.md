@@ -1,5 +1,5 @@
-ClareR-CIS74
-This repository consists of the following examples:
+**ClareR-CIS74**
+  This repository consists of the following examples:
 * Selenium
 * WebDriver
 * Python 
